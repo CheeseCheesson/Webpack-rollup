@@ -1,0 +1,16 @@
+{
+  "name": "webpack-rollup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "start": "rollup -c -w"
+  },
+  "keywords": [
+    "webpack",
+    "rollup"
+  ],
+  "author": "Kristina Revyakina",
+  "license": "ISC"
+}
